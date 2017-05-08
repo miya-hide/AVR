@@ -2,6 +2,8 @@
 #include "miya_lib.h"
 #include "pin_access.h"
 
+/* branch test */
+
 void time_delay32(volatile uint32_t time)
 {
 	do
