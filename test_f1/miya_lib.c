@@ -3,7 +3,7 @@
 #include "pin_access.h"
 
 /* branch test */
-
+/* branch b_test_1 */
 void time_delay32(volatile uint32_t time)
 {
 	do
