@@ -2,6 +2,7 @@
 #include "miya_lib.h"
 #include "pin_access.h"
 
+/* for pull test comment */
 void time_delay32(volatile uint32_t time)
 {
 	do
